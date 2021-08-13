@@ -9,7 +9,6 @@ function isAFunction() {
   
   receivesAFunction(saySomething);
 
-  var foo = function() {}
   
   function returnsANamedFunction() {
     return function namedFunction() {
